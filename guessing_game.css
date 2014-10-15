@@ -1,0 +1,37 @@
+.gg container {
+	position: relative;
+	display: inline-block;
+	height: 600px;
+	width: 100%;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.gg_head {
+	position: relative;
+	margin-top: 40px;
+	font-size: 12px;
+}
+
+#guess_text {
+	position: relative;
+	display: inline-block;
+	padding: 25px;
+}
+
+.button {
+	display: inline-block;
+	height: 50px;
+	width: 100px;
+	border-radius: 50%;
+	border: 2px solid black;
+	text-align: center;
+	line-height: 50pxl
+	position: relative;
+}
+
+.butt_text {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+}
